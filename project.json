@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "MeuPrimeiroJogo",
+  "id": "0fc7f680-bce0-4a69-94a4-842509c1b0fb",
+  "version": "2.4.4",
+  "isNew": false
+}

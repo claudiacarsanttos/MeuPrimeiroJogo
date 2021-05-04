@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "98e223c4-f707-4805-a44f-0cb8d6350b3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 78,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "PurpleMonster": {
+      "ver": "1.0.4",
+      "uuid": "d0c051d9-7261-4d2c-ab13-84843121ed43",
+      "rawTextureUuid": "98e223c4-f707-4805-a44f-0cb8d6350b3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 67,
+      "rawWidth": 78,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
